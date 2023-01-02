@@ -1,3 +1,3 @@
 ***
-![](welcome.jpg)
+![](welcome-GitHub.jpg)
 ***
