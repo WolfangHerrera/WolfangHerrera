@@ -15,7 +15,7 @@
 
 <p align="center">
 
-[![]([docs/Preview.gif](https://github.com/WolfangHerrera/IONIC-ALFA3-APP/blob/master/docs/Preview.gif))](https://alfa3electricos.com)
+[![](https://raw.githubusercontent.com/WolfangHerrera/IONIC-ALFA3-APP/refs/heads/master/docs/Preview.gif)](https://alfa3electricos.com)
 
 </p>
 
